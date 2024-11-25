@@ -31,3 +31,6 @@ A size 5 diamond:
 ...that is:
 "  *\n ***\n*****\n ***\n  *\n"
 */
+
+
+// Solution
